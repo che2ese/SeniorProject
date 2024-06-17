@@ -1,0 +1,3412 @@
+Logging started at: 2024-05-01 오전 1:23:14
+오후입니다.
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : O
+습도 : 70
+바람의 유무 : X
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52.48882
+Logging started at: 2024-05-01 오전 1:25:29
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36.48021
+Logging started at: 2024-05-01 오전 1:26:27
+Logging started at: 2024-05-01 오전 1:26:42
+Logging started at: 2024-05-01 오전 1:26:44
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 55.04206
+Logging started at: 2024-05-01 오전 1:26:46
+Logging started at: 2024-05-01 오전 1:26:48
+Logging started at: 2024-05-01 오전 1:26:53
+Logging started at: 2024-05-01 오전 1:27:28
+Logging started at: 2024-05-01 오전 1:27:34
+Logging started at: 2024-05-01 오전 1:27:37
+Logging started at: 2024-05-01 오전 1:27:39
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 51.18007
+Logging started at: 2024-05-01 오전 1:27:47
+오후입니다.
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : O
+습도 : 84
+바람의 유무 : X
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37.15471
+Logging started at: 2024-05-01 오전 1:29:39
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38.05024
+Logging started at: 2024-05-01 오전 1:29:44
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : O
+습도 : 70
+바람의 유무 : X
+Logging started at: 2024-05-01 오전 1:31:21
+Logging started at: 2024-05-01 오전 1:31:25
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : O
+습도 : 70
+바람의 유무 : X
+Logging started at: 2024-05-01 오전 1:32:49
+Logging started at: 2024-05-01 오전 1:32:51
+Logging started at: 2024-05-01 오전 1:32:53
+Logging started at: 2024-05-01 오전 1:32:54
+오후입니다.
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : O
+습도 : 84
+바람의 유무 : X
+Logging started at: 2024-05-01 오전 1:35:47
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37.75269
+Logging started at: 2024-05-01 오전 1:35:49
+Logging started at: 2024-05-01 오전 1:35:51
+Logging started at: 2024-05-01 오전 1:35:53
+오후입니다.
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : O
+습도 : 84
+바람의 유무 : X
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 51.68261
+Logging started at: 2024-05-01 오전 1:38:18
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37.94728
+Logging started at: 2024-05-01 오전 1:38:49
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37.37228
+Logging started at: 2024-05-01 오전 1:38:53
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : O
+습도 : 70
+바람의 유무 : X
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52.14179
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52.14179
+Logging started at: 2024-05-01 오전 1:39:41
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37.74672
+Logging started at: 2024-05-01 오전 1:39:44
+Logging started at: 2024-05-01 오전 1:39:46
+Logging started at: 2024-05-01 오전 1:39:48
+Logging started at: 2024-05-01 오전 1:39:50
+Logging started at: 2024-05-01 오전 1:39:52
+Logging started at: 2024-05-01 오전 1:39:53
+오후입니다.
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : O
+습도 : 84
+바람의 유무 : X
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 49.76362
+오후입니다.
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : O
+습도 : 84
+바람의 유무 : X
+Logging started at: 2024-05-01 오전 1:40:50
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72
+바람의 유무 : X
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36.69021
+오후입니다.
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72
+바람의 유무 : X
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36.69021
+Logging started at: 2024-05-01 오전 1:44:50
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53.63537
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72
+바람의 유무 : X
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53.63537
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53.63537
+Logging started at: 2024-05-01 오전 1:45:48
+Logging started at: 2024-05-01 오전 1:46:03
+Logging started at: 2024-05-01 오전 1:46:05
+Logging started at: 2024-05-01 오전 1:46:06
+Logging started at: 2024-05-01 오전 1:46:08
+Logging started at: 2024-05-01 오전 1:46:10
+오후입니다.
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : O
+습도 : 84
+바람의 유무 : X
+Logging started at: 2024-05-01 오전 1:47:47
+Logging started at: 2024-05-01 오전 1:50:56
+오후입니다.
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 51kg
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 51kg
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+Logging started at: 2024-05-01 오전 1:52:24
+Logging started at: 2024-05-01 오전 1:52:27
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+Logging started at: 2024-05-01 오전 1:53:42
+Logging started at: 2024-05-01 오전 1:53:46
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+Logging started at: 2024-05-01 오전 1:54:18
+Logging started at: 2024-05-01 오전 1:54:21
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+Logging started at: 2024-05-01 오전 1:55:52
+Logging started at: 2024-05-01 오전 1:55:55
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+Logging started at: 2024-05-01 오전 1:56:18
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+Logging started at: 2024-05-01 오전 1:57:12
+Logging started at: 2024-05-01 오전 1:57:14
+Logging started at: 2024-05-01 오전 1:57:16
+Logging started at: 2024-05-01 오전 1:57:17
+Logging started at: 2024-05-01 오전 1:57:21
+Logging started at: 2024-05-01 오전 1:57:25
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 55kg
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+Logging started at: 2024-05-01 오전 1:58:33
+Logging started at: 2024-05-01 오전 1:58:35
+Logging started at: 2024-05-01 오전 1:58:51
+Logging started at: 2024-05-01 오전 1:58:52
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+Logging started at: 2024-05-01 오전 2:00:18
+Logging started at: 2024-05-01 오전 2:00:21
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+Logging started at: 2024-05-01 오전 2:01:45
+Logging started at: 2024-05-01 오전 2:01:50
+Logging started at: 2024-05-01 오전 2:01:52
+Logging started at: 2024-05-01 오전 2:01:53
+Logging started at: 2024-05-01 오전 2:01:55
+Logging started at: 2024-05-01 오전 2:01:56
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+Logging started at: 2024-05-01 오전 2:03:05
+Logging started at: 2024-05-01 오전 2:03:17
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 39kg
+Logging started at: 2024-05-01 오전 2:03:58
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+오후입니다.
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : O
+습도 : 84%
+바람의 유무 : X
+Logging started at: 2024-05-01 오전 2:05:08
+Logging started at: 2024-05-01 오전 2:05:10
+Logging started at: 2024-05-01 오전 2:05:11
+Logging started at: 2024-05-01 오전 2:05:12
+Logging started at: 2024-05-01 오전 2:05:13
+Logging started at: 2024-05-01 오전 2:05:50
+Logging started at: 2024-05-01 오전 2:05:52
+Logging started at: 2024-05-01 오전 2:05:53
+Logging started at: 2024-05-01 오전 2:05:55
+Logging started at: 2024-05-01 오전 2:05:56
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+Logging started at: 2024-05-01 오전 2:06:10
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+Logging started at: 2024-05-01 오전 2:07:10
+Logging started at: 2024-05-01 오전 2:07:13
+Logging started at: 2024-05-01 오전 2:07:15
+Logging started at: 2024-05-01 오전 2:07:26
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+Logging started at: 2024-05-01 오전 2:10:45
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+Logging started at: 2024-05-01 오전 2:11:57
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+Logging started at: 2024-05-01 오전 2:19:47
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 51kg
+Logging started at: 2024-05-01 오전 2:20:54
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+Logging started at: 2024-05-02 오전 11:51:07
+Logging started at: 2024-05-02 오전 11:51:10
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+Logging started at: 2024-05-02 오전 11:51:52
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-05-02 오전 11:52:04
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 51kg
+Logging started at: 2024-05-02 오전 11:55:16
+Logging started at: 2024-05-02 오전 11:55:18
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 50kg
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : O
+
+Logging started at: 2024-05-02 오전 11:55:49
+Logging started at: 2024-05-02 오전 11:55:51
+Logging started at: 2024-05-02 오전 11:55:52
+Logging started at: 2024-05-02 오전 11:56:57
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : O
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+Logging started at: 2024-05-02 오전 11:57:28
+Logging started at: 2024-05-02 오전 11:58:11
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+Logging started at: 2024-05-02 오전 11:58:24
+Logging started at: 2024-05-02 오전 11:59:23
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 50kg
+Logging started at: 2024-05-02 오전 11:59:35
+Logging started at: 2024-05-02 오전 11:59:41
+Logging started at: 2024-05-02 오전 11:59:57
+Logging started at: 2024-05-02 오전 11:59:59
+Logging started at: 2024-05-02 오후 12:00:09
+Logging started at: 2024-05-02 오후 12:00:15
+Logging started at: 2024-05-02 오후 12:00:17
+Logging started at: 2024-05-02 오후 12:00:19
+Logging started at: 2024-05-02 오후 12:00:22
+Logging started at: 2024-05-02 오후 12:00:23
+Logging started at: 2024-05-02 오후 12:00:25
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-05-02 오후 12:01:13
+Logging started at: 2024-05-02 오후 12:01:39
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+오후입니다.
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : O
+습도 : 84%
+바람의 유무 : X
+
+Logging started at: 2024-05-02 오후 12:07:06
+Logging started at: 2024-05-02 오후 12:09:12
+Logging started at: 2024-05-02 오후 12:09:43
+Logging started at: 2024-05-02 오후 12:09:48
+Logging started at: 2024-05-02 오후 12:10:11
+Logging started at: 2024-05-02 오후 12:11:10
+Logging started at: 2024-05-02 오후 12:13:29
+Logging started at: 2024-05-02 오후 12:13:52
+Logging started at: 2024-05-02 오후 12:14:07
+Logging started at: 2024-05-02 오후 12:15:41
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+Logging started at: 2024-05-02 오후 12:15:45
+Logging started at: 2024-05-02 오후 12:16:20
+Logging started at: 2024-05-02 오후 12:17:19
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 51kg
+Logging started at: 2024-05-02 오후 12:17:21
+Logging started at: 2024-05-02 오후 12:19:19
+Logging started at: 2024-05-02 오후 12:19:22
+Logging started at: 2024-05-02 오후 12:19:23
+Logging started at: 2024-05-02 오후 12:19:24
+Logging started at: 2024-05-02 오후 12:19:53
+Logging started at: 2024-05-02 오후 12:19:55
+Logging started at: 2024-05-02 오후 12:19:56
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+Logging started at: 2024-05-02 오후 12:19:57
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+Logging started at: 2024-05-02 오후 12:19:58
+Logging started at: 2024-05-02 오후 12:19:59
+Logging started at: 2024-05-02 오후 12:26:48
+Logging started at: 2024-05-02 오후 12:27:01
+Logging started at: 2024-05-02 오후 12:27:17
+Logging started at: 2024-05-02 오후 12:27:19
+Logging started at: 2024-05-02 오후 12:27:22
+Logging started at: 2024-05-02 오후 12:27:22
+Logging started at: 2024-05-02 오후 12:27:24
+Logging started at: 2024-05-02 오후 12:27:25
+Logging started at: 2024-05-02 오후 12:27:26
+Logging started at: 2024-05-02 오후 12:27:30
+Logging started at: 2024-05-02 오후 12:27:32
+Logging started at: 2024-05-02 오후 12:27:33
+Logging started at: 2024-05-02 오후 12:27:34
+Logging started at: 2024-05-02 오후 12:37:05
+Logging started at: 2024-05-02 오후 12:38:09
+Logging started at: 2024-05-02 오후 12:38:11
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+Logging started at: 2024-05-02 오후 12:38:14
+Logging started at: 2024-05-02 오후 12:38:15
+Logging started at: 2024-05-02 오후 12:38:17
+Logging started at: 2024-05-02 오후 12:38:18
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+Logging started at: 2024-05-02 오후 12:38:19
+Logging started at: 2024-05-02 오후 12:38:20
+Logging started at: 2024-05-02 오후 12:38:24
+Logging started at: 2024-05-02 오후 12:38:26
+Logging started at: 2024-05-02 오후 1:23:49
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+오후입니다.
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : O
+습도 : 70%
+바람의 유무 : X
+
+Logging started at: 2024-05-02 오후 1:24:39
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+Logging started at: 2024-05-02 오후 1:25:46
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+Logging started at: 2024-05-02 오후 1:28:02
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+오후입니다.
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : O
+습도 : 84%
+바람의 유무 : X
+
+Logging started at: 2024-05-03 오전 12:23:40
+Logging started at: 2024-05-03 오전 12:23:46
+오후입니다.
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : O
+습도 : 84%
+바람의 유무 : X
+
+오후입니다.
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 50kg
+
+Logging started at: 2024-05-13 오후 7:01:40
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-13 오후 7:06:34
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-13 오후 7:16:34
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 51kg
+
+Logging started at: 2024-05-13 오후 7:19:03
+Logging started at: 2024-05-13 오후 7:19:06
+Logging started at: 2024-05-13 오후 7:19:08
+Logging started at: 2024-05-13 오후 7:19:08
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-05-13 오후 7:22:14
+Logging started at: 2024-05-13 오후 7:23:27
+Logging started at: 2024-05-13 오후 7:34:02
+Logging started at: 2024-05-13 오후 7:34:11
+Logging started at: 2024-05-13 오후 7:36:11
+Logging started at: 2024-05-13 오후 7:37:31
+Logging started at: 2024-05-13 오후 7:49:13
+Logging started at: 2024-05-13 오후 7:49:14
+Logging started at: 2024-05-23 오후 2:12:11
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+
+Logging started at: 2024-05-23 오후 2:14:21
+Logging started at: 2024-05-23 오후 2:14:24
+Logging started at: 2024-05-23 오후 2:14:25
+Logging started at: 2024-05-23 오후 2:14:27
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+오후입니다.
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-23 오후 2:17:40
+Logging started at: 2024-05-23 오후 2:18:48
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-05-23 오후 2:35:21
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-05-23 오후 2:38:46
+Logging started at: 2024-05-23 오후 2:38:49
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-23 오후 2:40:05
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-05-23 오후 2:40:42
+Logging started at: 2024-05-23 오후 2:40:44
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+Logging started at: 2024-05-23 오후 2:41:27
+Logging started at: 2024-05-23 오후 2:41:29
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-05-23 오후 2:41:42
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-23 오후 2:41:44
+Logging started at: 2024-05-23 오후 2:41:45
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-05-23 오후 2:42:07
+Logging started at: 2024-05-23 오후 2:42:53
+Logging started at: 2024-05-23 오후 2:42:55
+Logging started at: 2024-05-23 오후 2:42:56
+Logging started at: 2024-05-23 오후 2:43:15
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-23 오후 2:45:00
+Logging started at: 2024-05-23 오후 2:45:20
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-23 오후 2:45:23
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : O
+습도 : 70%
+바람의 유무 : X
+
+Logging started at: 2024-05-23 오후 2:58:28
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 51kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-23 오후 3:02:41
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : O
+습도 : 84%
+바람의 유무 : X
+
+Logging started at: 2024-05-23 오후 3:03:50
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-05-23 오후 3:04:39
+Logging started at: 2024-05-23 오후 3:05:00
+Logging started at: 2024-05-23 오후 3:05:04
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+Logging started at: 2024-05-23 오후 3:05:37
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+Logging started at: 2024-05-23 오후 3:07:47
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-23 오후 3:10:18
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+
+Logging started at: 2024-05-23 오후 3:10:21
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+Logging started at: 2024-05-23 오후 3:10:27
+Logging started at: 2024-05-23 오후 3:12:33
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : O
+습도 : 70%
+바람의 유무 : X
+
+Logging started at: 2024-05-23 오후 3:14:30
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+Logging started at: 2024-05-23 오후 3:15:00
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+Logging started at: 2024-05-23 오후 3:15:29
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 50kg
+
+Logging started at: 2024-05-23 오후 3:15:45
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-05-23 오후 3:16:32
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 54kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 54kg
+
+Logging started at: 2024-05-23 오후 3:17:20
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-23 오후 3:17:29
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+Logging started at: 2024-05-23 오후 3:18:25
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+Logging started at: 2024-05-23 오후 3:20:25
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-23 오후 3:20:30
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+오후입니다.
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-05-23 오후 3:21:11
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-23 오후 3:27:52
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 54kg
+
+Logging started at: 2024-05-23 오후 3:28:30
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-23 오후 3:28:39
+Logging started at: 2024-05-23 오후 3:28:51
+Logging started at: 2024-05-23 오후 3:29:10
+Logging started at: 2024-05-23 오후 3:29:17
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-23 오후 3:29:33
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+
+Logging started at: 2024-05-23 오후 3:29:53
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 54kg
+
+Logging started at: 2024-05-23 오후 3:30:11
+Logging started at: 2024-05-23 오후 3:30:19
+Logging started at: 2024-05-23 오후 3:31:13
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 51kg
+
+Logging started at: 2024-05-23 오후 3:31:21
+Logging started at: 2024-05-23 오후 3:31:28
+Logging started at: 2024-05-23 오후 3:31:55
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+
+Logging started at: 2024-05-23 오후 3:32:12
+Logging started at: 2024-05-23 오후 3:32:28
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+Logging started at: 2024-05-23 오후 3:32:37
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+Logging started at: 2024-05-23 오후 3:32:44
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-23 오후 3:32:50
+Logging started at: 2024-05-23 오후 3:32:56
+Logging started at: 2024-05-23 오후 3:33:02
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 39kg
+
+Logging started at: 2024-05-23 오후 3:34:21
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-23 오후 3:34:56
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+Logging started at: 2024-05-23 오후 3:35:06
+Logging started at: 2024-05-23 오후 3:35:13
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+Logging started at: 2024-05-23 오후 3:35:20
+Logging started at: 2024-05-23 오후 3:36:09
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-23 오후 3:36:20
+Logging started at: 2024-05-23 오후 3:36:24
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 51kg
+
+Logging started at: 2024-05-23 오후 3:36:31
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+
+Logging started at: 2024-05-23 오후 3:37:00
+Logging started at: 2024-05-23 오후 3:37:08
+Logging started at: 2024-05-23 오후 3:37:17
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-23 오후 3:37:34
+Logging started at: 2024-05-23 오후 3:37:44
+Logging started at: 2024-05-23 오후 3:37:54
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 54kg
+
+Logging started at: 2024-05-23 오후 3:38:16
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 50kg
+
+Logging started at: 2024-05-23 오후 3:38:25
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+Logging started at: 2024-05-23 오후 3:38:33
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 51kg
+
+Logging started at: 2024-05-23 오후 3:38:40
+Logging started at: 2024-05-23 오후 3:38:49
+Logging started at: 2024-05-23 오후 3:38:57
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+
+Logging started at: 2024-05-23 오후 3:39:03
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-23 오후 3:39:11
+Logging started at: 2024-05-23 오후 3:39:15
+Logging started at: 2024-05-23 오후 3:39:37
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-23 오후 3:40:08
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-23 오후 3:40:45
+Logging started at: 2024-05-23 오후 3:42:20
+Logging started at: 2024-05-23 오후 3:44:54
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-23 오후 3:45:08
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 51kg
+
+Logging started at: 2024-05-23 오후 3:45:14
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-23 오후 3:45:18
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-23 오후 3:45:21
+Logging started at: 2024-05-23 오후 3:45:27
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-23 오후 3:45:30
+Logging started at: 2024-05-23 오후 3:45:32
+Logging started at: 2024-05-23 오후 3:45:38
+Logging started at: 2024-05-23 오후 3:45:42
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-23 오후 3:45:45
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 51kg
+
+Logging started at: 2024-05-23 오후 3:45:49
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-23 오후 3:45:55
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+
+Logging started at: 2024-05-23 오후 3:46:19
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-23 오후 3:46:28
+Logging started at: 2024-05-23 오후 3:46:35
+Logging started at: 2024-05-23 오후 3:46:39
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+Logging started at: 2024-05-23 오후 3:46:47
+Logging started at: 2024-05-23 오후 3:47:17
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-23 오후 3:47:54
+Logging started at: 2024-05-23 오후 3:51:47
+Logging started at: 2024-05-23 오후 3:52:32
+Logging started at: 2024-05-23 오후 3:53:01
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+Logging started at: 2024-05-23 오후 3:53:14
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 39kg
+
+Logging started at: 2024-05-23 오후 3:55:14
+Logging started at: 2024-05-23 오후 3:55:53
+Logging started at: 2024-05-23 오후 3:56:14
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-23 오후 3:56:38
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+Logging started at: 2024-05-23 오후 3:57:50
+Logging started at: 2024-05-23 오후 3:58:46
+Logging started at: 2024-05-23 오후 3:58:55
+Logging started at: 2024-05-23 오후 3:59:06
+Logging started at: 2024-05-23 오후 3:59:43
+Logging started at: 2024-05-23 오후 3:59:57
+Logging started at: 2024-05-23 오후 4:00:21
+Logging started at: 2024-05-23 오후 4:00:40
+Logging started at: 2024-05-23 오후 4:00:59
+Logging started at: 2024-05-23 오후 4:01:16
+Logging started at: 2024-05-23 오후 4:01:33
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-23 오후 4:01:54
+Logging started at: 2024-05-23 오후 4:02:16
+Logging started at: 2024-05-23 오후 4:02:45
+Logging started at: 2024-05-23 오후 4:03:09
+Logging started at: 2024-05-23 오후 4:03:14
+Logging started at: 2024-05-23 오후 4:03:24
+Logging started at: 2024-05-23 오후 4:03:38
+Logging started at: 2024-05-23 오후 4:03:55
+Logging started at: 2024-05-23 오후 4:04:32
+Logging started at: 2024-05-23 오후 4:04:46
+Logging started at: 2024-05-23 오후 4:06:34
+Logging started at: 2024-05-23 오후 4:07:13
+Logging started at: 2024-05-23 오후 4:07:29
+Logging started at: 2024-05-23 오후 4:07:48
+Logging started at: 2024-05-23 오후 4:08:24
+Logging started at: 2024-05-23 오후 4:08:34
+Logging started at: 2024-05-23 오후 4:09:21
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-23 오후 4:09:42
+Logging started at: 2024-05-23 오후 4:10:16
+Logging started at: 2024-05-23 오후 4:10:35
+Logging started at: 2024-05-23 오후 4:10:49
+Logging started at: 2024-05-23 오후 4:11:48
+Logging started at: 2024-05-23 오후 4:11:56
+Logging started at: 2024-05-23 오후 4:12:05
+Logging started at: 2024-05-23 오후 4:12:17
+Logging started at: 2024-05-23 오후 4:12:24
+Logging started at: 2024-05-23 오후 4:12:30
+Logging started at: 2024-05-23 오후 4:12:40
+Logging started at: 2024-05-23 오후 4:12:46
+Logging started at: 2024-05-23 오후 4:12:57
+Logging started at: 2024-05-23 오후 4:13:06
+Logging started at: 2024-05-23 오후 4:13:13
+Logging started at: 2024-05-23 오후 4:13:19
+Logging started at: 2024-05-23 오후 4:13:35
+Logging started at: 2024-05-23 오후 4:13:52
+Logging started at: 2024-05-23 오후 4:13:59
+Logging started at: 2024-05-23 오후 4:14:07
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-23 오후 4:14:39
+Logging started at: 2024-05-23 오후 4:14:46
+Logging started at: 2024-05-23 오후 4:15:04
+Logging started at: 2024-05-23 오후 4:15:13
+Logging started at: 2024-05-23 오후 4:17:20
+Logging started at: 2024-05-23 오후 4:17:57
+Logging started at: 2024-05-23 오후 4:18:52
+Logging started at: 2024-05-23 오후 4:19:11
+Logging started at: 2024-05-23 오후 4:21:19
+Logging started at: 2024-05-23 오후 4:21:41
+Logging started at: 2024-05-23 오후 4:21:51
+Logging started at: 2024-05-23 오후 4:22:04
+Logging started at: 2024-05-23 오후 4:22:19
+Logging started at: 2024-05-23 오후 4:22:33
+Logging started at: 2024-05-23 오후 4:22:50
+Logging started at: 2024-05-23 오후 4:22:56
+Logging started at: 2024-05-23 오후 4:23:30
+Logging started at: 2024-05-23 오후 4:23:37
+Logging started at: 2024-05-23 오후 4:23:47
+Logging started at: 2024-05-23 오후 4:24:06
+Logging started at: 2024-05-23 오후 4:25:07
+Logging started at: 2024-05-23 오후 4:25:42
+Logging started at: 2024-05-23 오후 4:26:03
+Logging started at: 2024-05-23 오후 4:27:33
+Logging started at: 2024-05-23 오후 4:27:35
+Logging started at: 2024-05-23 오후 4:27:42
+Logging started at: 2024-05-23 오후 4:27:49
+Logging started at: 2024-05-23 오후 4:27:53
+Logging started at: 2024-05-23 오후 4:28:45
+Logging started at: 2024-05-23 오후 4:28:49
+Logging started at: 2024-05-23 오후 4:29:02
+Logging started at: 2024-05-23 오후 4:29:07
+Logging started at: 2024-05-23 오후 4:29:16
+Logging started at: 2024-05-23 오후 4:29:27
+Logging started at: 2024-05-23 오후 4:31:39
+Logging started at: 2024-05-23 오후 4:31:53
+Logging started at: 2024-05-23 오후 4:32:02
+Logging started at: 2024-05-23 오후 4:32:13
+Logging started at: 2024-05-23 오후 4:32:27
+Logging started at: 2024-05-23 오후 6:09:13
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-23 오후 6:11:05
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-23 오후 6:11:39
+Logging started at: 2024-05-23 오후 6:18:11
+Logging started at: 2024-05-23 오후 6:18:47
+Logging started at: 2024-05-23 오후 6:19:00
+Logging started at: 2024-05-23 오후 6:19:54
+Logging started at: 2024-05-23 오후 6:20:29
+Logging started at: 2024-05-23 오후 6:22:02
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+
+Logging started at: 2024-05-23 오후 6:22:08
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 51kg
+
+Logging started at: 2024-05-23 오후 6:22:11
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-23 오후 6:22:16
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+Logging started at: 2024-05-23 오후 6:22:30
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-23 오후 6:22:39
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+
+Logging started at: 2024-05-23 오후 6:26:39
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 51kg
+
+Logging started at: 2024-05-23 오후 6:27:09
+Logging started at: 2024-05-23 오후 6:27:46
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+
+Logging started at: 2024-05-23 오후 6:28:21
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-23 오후 6:28:26
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-23 오후 6:28:42
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-23 오후 6:31:15
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+Logging started at: 2024-05-23 오후 6:31:27
+Logging started at: 2024-05-23 오후 6:31:36
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+Logging started at: 2024-05-23 오후 6:32:54
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-23 오후 6:34:09
+Logging started at: 2024-05-23 오후 6:34:42
+Logging started at: 2024-05-23 오후 6:35:44
+Logging started at: 2024-05-23 오후 6:35:53
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-23 오후 6:36:39
+Logging started at: 2024-05-23 오후 6:39:10
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-23 오후 6:39:17
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-23 오후 6:42:59
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-23 오후 6:43:29
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+Logging started at: 2024-05-23 오후 6:43:50
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 51kg
+
+Logging started at: 2024-05-23 오후 6:44:15
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-23 오후 6:45:25
+Logging started at: 2024-05-23 오후 6:46:20
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-23 오후 6:47:35
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-23 오후 6:47:59
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-23 오후 6:48:05
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-23 오후 6:49:56
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 35kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 35kg
+
+Logging started at: 2024-05-23 오후 6:50:11
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-23 오후 6:50:15
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 54kg
+
+Logging started at: 2024-05-23 오후 6:50:16
+Logging started at: 2024-05-23 오후 6:51:48
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+
+Logging started at: 2024-05-23 오후 6:51:58
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 54kg
+
+Logging started at: 2024-05-23 오후 6:52:24
+Logging started at: 2024-05-23 오후 6:56:23
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-23 오후 6:57:01
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-23 오후 6:57:22
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-23 오후 6:57:55
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 35kg
+
+Logging started at: 2024-05-23 오후 6:58:00
+Logging started at: 2024-05-23 오후 7:02:04
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+오후입니다.
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-23 오후 7:03:06
+Logging started at: 2024-05-23 오후 7:03:12
+Logging started at: 2024-05-23 오후 7:03:14
+Logging started at: 2024-05-23 오후 7:03:17
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-23 오후 7:04:33
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+
+Logging started at: 2024-05-23 오후 7:04:36
+Logging started at: 2024-05-23 오후 7:04:48
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-23 오후 7:05:08
+Logging started at: 2024-05-23 오후 7:05:11
+Logging started at: 2024-05-23 오후 7:05:12
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+Logging started at: 2024-05-23 오후 7:05:47
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-23 오후 7:06:58
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+Logging started at: 2024-05-23 오후 7:12:34
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+
+Logging started at: 2024-05-23 오후 7:14:17
+Logging started at: 2024-05-23 오후 7:16:56
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 50kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 50kg
+
+Logging started at: 2024-05-23 오후 7:17:33
+Logging started at: 2024-05-23 오후 7:17:37
+Logging started at: 2024-05-23 오후 7:17:41
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+Logging started at: 2024-05-23 오후 7:18:57
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 35kg
+
+Logging started at: 2024-05-23 오후 7:20:15
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+Logging started at: 2024-05-23 오후 7:21:22
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 50kg
+
+Logging started at: 2024-05-23 오후 7:21:25
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+Logging started at: 2024-05-23 오후 7:21:30
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 39kg
+
+Logging started at: 2024-05-23 오후 7:22:06
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+
+Logging started at: 2024-05-23 오후 7:24:25
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+Logging started at: 2024-05-23 오후 7:26:51
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+Logging started at: 2024-05-23 오후 7:27:28
+Logging started at: 2024-05-23 오후 7:27:50
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-23 오후 7:32:58
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-23 오후 7:34:29
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+Logging started at: 2024-05-23 오후 7:37:16
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+Logging started at: 2024-05-23 오후 7:37:47
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-23 오후 7:38:17
+Logging started at: 2024-05-23 오후 7:38:31
+Logging started at: 2024-05-23 오후 7:38:45
+Logging started at: 2024-05-23 오후 7:39:17
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+Logging started at: 2024-05-23 오후 7:40:50
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-23 오후 11:01:33
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-23 오후 11:03:03
+Logging started at: 2024-05-23 오후 11:04:02
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-23 오후 11:04:29
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+Logging started at: 2024-05-23 오후 11:07:19
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 54kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : O
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 54kg
+
+Logging started at: 2024-05-23 오후 11:08:25
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-05-23 오후 11:12:14
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-23 오후 11:16:50
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-23 오후 11:22:13
+Logging started at: 2024-05-23 오후 11:36:46
+Logging started at: 2024-05-23 오후 11:37:04
+Logging started at: 2024-05-23 오후 11:37:10
+Logging started at: 2024-05-23 오후 11:37:16
+Logging started at: 2024-05-23 오후 11:41:08
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-23 오후 11:43:37
+Logging started at: 2024-05-23 오후 11:44:50
+Logging started at: 2024-05-23 오후 11:45:34
+Logging started at: 2024-05-23 오후 11:46:05
+Logging started at: 2024-05-23 오후 11:46:24
+Logging started at: 2024-05-23 오후 11:48:13
+Logging started at: 2024-05-23 오후 11:49:40
+Logging started at: 2024-05-23 오후 11:50:35
+Logging started at: 2024-05-23 오후 11:51:41
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-23 오후 11:52:39
+Logging started at: 2024-05-23 오후 11:54:31
+Logging started at: 2024-05-23 오후 11:54:43
+Logging started at: 2024-05-23 오후 11:55:58
+Logging started at: 2024-05-23 오후 11:56:50
+Logging started at: 2024-05-23 오후 11:57:16
+Logging started at: 2024-05-23 오후 11:57:58
+Logging started at: 2024-05-23 오후 11:58:44
+Logging started at: 2024-05-23 오후 11:58:48
+Logging started at: 2024-05-24 오전 12:00:05
+Logging started at: 2024-05-24 오전 12:01:28
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-24 오전 12:01:52
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-24 오전 12:02:12
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+
+Logging started at: 2024-05-24 오전 12:02:18
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-24 오전 12:02:54
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+
+Logging started at: 2024-05-24 오전 12:03:07
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 50kg
+
+Logging started at: 2024-05-24 오전 12:05:08
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-24 오전 12:07:29
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+
+Logging started at: 2024-05-24 오전 12:08:27
+Logging started at: 2024-05-24 오전 12:10:05
+Logging started at: 2024-05-24 오전 12:12:24
+Logging started at: 2024-05-24 오전 12:14:43
+Logging started at: 2024-05-24 오전 12:15:11
+Logging started at: 2024-05-24 오전 12:16:13
+Logging started at: 2024-05-24 오전 12:16:20
+Logging started at: 2024-05-24 오전 12:16:41
+Logging started at: 2024-05-24 오전 12:16:52
+Logging started at: 2024-05-24 오전 12:16:59
+Logging started at: 2024-05-24 오전 12:17:08
+Logging started at: 2024-05-24 오전 12:17:15
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-24 오전 12:22:44
+Logging started at: 2024-05-24 오전 12:22:52
+Logging started at: 2024-05-24 오전 12:23:15
+Logging started at: 2024-05-24 오전 12:23:24
+Logging started at: 2024-05-24 오전 12:23:32
+Logging started at: 2024-05-24 오전 12:23:59
+Logging started at: 2024-05-24 오전 12:24:05
+Logging started at: 2024-05-24 오전 12:24:10
+Logging started at: 2024-05-24 오전 12:24:21
+Logging started at: 2024-05-24 오전 12:24:32
+Logging started at: 2024-05-24 오전 12:24:59
+Logging started at: 2024-05-24 오전 12:25:10
+Logging started at: 2024-05-26 오후 10:11:23
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+Logging started at: 2024-05-30 오후 10:31:25
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-30 오후 10:32:12
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-30 오후 10:33:02
+Logging started at: 2024-05-30 오후 10:33:40
+Logging started at: 2024-05-30 오후 10:34:39
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-30 오후 10:35:00
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-05-30 오후 10:35:44
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-05-30 오후 10:37:04
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-05-30 오후 10:37:44
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 49kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 49kg
+
+Logging started at: 2024-05-30 오후 10:38:16
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 49kg
+
+Logging started at: 2024-05-30 오후 10:38:34
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 51kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-30 오후 10:39:39
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+
+Logging started at: 2024-05-30 오후 10:40:29
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 39kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-05-30 오후 10:40:56
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-30 오후 10:41:42
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-05-30 오후 10:42:22
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 51kg
+
+오후입니다.
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-05-30 오후 10:43:28
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 51kg
+
+Logging started at: 2024-05-30 오후 10:44:18
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-05-30 오후 10:44:54
+Logging started at: 2024-05-30 오후 10:45:55
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+오후입니다.
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-30 오후 10:47:14
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-05-30 오후 10:51:52
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-05-30 오후 10:53:06
+Logging started at: 2024-05-30 오후 10:53:14
+Logging started at: 2024-05-30 오후 10:53:33
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-05-30 오후 10:55:02
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 54kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-05-30 오후 10:55:53
+Logging started at: 2024-05-30 오후 10:56:19
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-30 오후 10:56:24
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-05-30 오후 10:57:30
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-05-30 오후 10:58:18
+Logging started at: 2024-05-30 오후 10:58:28
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-30 오후 10:58:38
+Logging started at: 2024-05-30 오후 10:59:12
+Logging started at: 2024-05-30 오후 10:59:17
+Logging started at: 2024-05-30 오후 10:59:27
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-30 오후 11:00:22
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-30 오후 11:01:10
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-30 오후 11:01:21
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 54kg
+
+Logging started at: 2024-05-30 오후 11:01:30
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-05-30 오후 11:02:24
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+
+Logging started at: 2024-05-30 오후 11:05:16
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-05-30 오후 11:07:37
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : O
+
+Logging started at: 2024-05-30 오후 11:08:08
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-05-30 오후 11:10:52
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-30 오후 11:11:04
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 53kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-05-30 오후 11:20:52
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+Logging started at: 2024-05-30 오후 11:38:28
+Logging started at: 2024-05-30 오후 11:38:38
+Logging started at: 2024-05-30 오후 11:38:41
+Logging started at: 2024-05-30 오후 11:39:11
+Logging started at: 2024-05-30 오후 11:39:17
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 51kg
+
+Logging started at: 2024-05-30 오후 11:39:23
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-30 오후 11:40:30
+Logging started at: 2024-05-30 오후 11:42:02
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 51kg
+
+Logging started at: 2024-05-30 오후 11:42:14
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 38kg
+
+Logging started at: 2024-05-30 오후 11:42:30
+Logging started at: 2024-05-30 오후 11:42:37
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 51kg
+
+Logging started at: 2024-05-30 오후 11:42:40
+Logging started at: 2024-05-30 오후 11:42:45
+Logging started at: 2024-05-30 오후 11:42:53
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 51kg
+
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-30 오후 11:43:21
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 36kg
+
+Logging started at: 2024-05-30 오후 11:43:35
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-30 오후 11:43:42
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-30 오후 11:43:46
+Logging started at: 2024-05-30 오후 11:43:50
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 37kg
+
+Logging started at: 2024-05-30 오후 11:44:02
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 52kg
+
+Logging started at: 2024-05-30 오후 11:44:59
+Logging started at: 2024-05-30 오후 11:45:03
+Logging started at: 2024-05-30 오후 11:45:13
+Logging started at: 2024-05-30 오후 11:45:19
+Logging started at: 2024-05-30 오후 11:45:25
+
+사고 발생 원인 : 무거운 물체를 들다가
+무게 : 51kg
+
+Logging started at: 2024-05-30 오후 11:47:24
+Logging started at: 2024-05-30 오후 11:47:30
+Logging started at: 2024-05-30 오후 11:47:40
+Logging started at: 2024-05-30 오후 11:47:51
+Logging started at: 2024-05-30 오후 11:47:56
+Logging started at: 2024-05-30 오후 11:48:34
+Logging started at: 2024-05-30 오후 11:48:43
+Logging started at: 2024-05-30 오후 11:48:55
+Logging started at: 2024-05-30 오후 11:49:02
+Logging started at: 2024-05-30 오후 11:49:08
+Logging started at: 2024-05-30 오후 11:49:14
+Logging started at: 2024-05-30 오후 11:50:49
+Logging started at: 2024-05-30 오후 11:51:23
+Logging started at: 2024-05-30 오후 11:52:04
+Logging started at: 2024-05-30 오후 11:52:24
+Logging started at: 2024-05-30 오후 11:52:32
+Logging started at: 2024-05-30 오후 11:52:55
+Logging started at: 2024-05-30 오후 11:53:17
+Logging started at: 2024-05-30 오후 11:53:45
+Logging started at: 2024-05-30 오후 11:54:42
+Logging started at: 2024-05-30 오후 11:54:47
+Logging started at: 2024-05-30 오후 11:56:25
+Logging started at: 2024-05-30 오후 11:56:31
+Logging started at: 2024-05-30 오후 11:57:20
+Logging started at: 2024-05-30 오후 11:57:30
+Logging started at: 2024-05-30 오후 11:57:37
+Logging started at: 2024-05-30 오후 11:59:54
+Logging started at: 2024-05-31 오전 12:00:08
+Logging started at: 2024-05-31 오전 12:00:21
+Logging started at: 2024-05-31 오전 12:01:08
+Logging started at: 2024-05-31 오전 12:01:15
+Logging started at: 2024-05-31 오전 12:01:19
+Logging started at: 2024-05-31 오전 12:01:38
+Logging started at: 2024-05-31 오전 12:01:44
+Logging started at: 2024-05-31 오전 12:01:51
+Logging started at: 2024-05-31 오전 12:08:10
+Logging started at: 2024-05-31 오전 12:08:21
+Logging started at: 2024-05-31 오전 12:08:25
+Logging started at: 2024-05-31 오전 12:08:29
+Logging started at: 2024-05-31 오전 12:08:38
+Logging started at: 2024-05-31 오전 12:08:41
+Logging started at: 2024-05-31 오전 12:09:16
+Logging started at: 2024-05-31 오전 12:09:42
+Logging started at: 2024-05-31 오전 12:09:50
+Logging started at: 2024-05-31 오전 12:09:56
+Logging started at: 2024-05-31 오전 12:10:02
+Logging started at: 2024-05-31 오전 12:10:10
+Logging started at: 2024-05-31 오전 12:10:56
+Logging started at: 2024-05-31 오전 12:12:43
+Logging started at: 2024-05-31 오전 12:12:54
+Logging started at: 2024-05-31 오전 12:14:07
+Logging started at: 2024-05-31 오전 12:14:15
+Logging started at: 2024-05-31 오전 12:14:30
+Logging started at: 2024-05-31 오전 12:15:38
+Logging started at: 2024-05-31 오전 12:15:55
+Logging started at: 2024-05-31 오전 12:16:28
+Logging started at: 2024-05-31 오전 12:16:34
+Logging started at: 2024-05-31 오전 12:16:53
+Logging started at: 2024-05-31 오전 12:16:59
+Logging started at: 2024-05-31 오전 12:17:01
+Logging started at: 2024-05-31 오전 12:18:09
+Logging started at: 2024-05-31 오전 12:18:31
+Logging started at: 2024-05-31 오전 12:18:37
+Logging started at: 2024-05-31 오전 12:18:53
+Logging started at: 2024-05-31 오전 12:19:04
+Logging started at: 2024-05-31 오전 12:19:09
+Logging started at: 2024-05-31 오전 12:19:23
+Logging started at: 2024-05-31 오전 12:19:33
+Logging started at: 2024-05-31 오전 12:19:36
+Logging started at: 2024-05-31 오전 12:19:39
+Logging started at: 2024-05-31 오전 12:19:41
+Logging started at: 2024-05-31 오전 12:19:48
+Logging started at: 2024-05-31 오전 12:19:57
+Logging started at: 2024-05-31 오전 12:20:04
+Logging started at: 2024-05-31 오전 12:20:10
+Logging started at: 2024-05-31 오전 12:20:25
+Logging started at: 2024-05-31 오전 12:25:59
+Logging started at: 2024-05-31 오전 12:26:06
+Logging started at: 2024-05-31 오전 12:26:20
+Logging started at: 2024-05-31 오전 12:26:39
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-31 오전 12:27:39
+Logging started at: 2024-05-31 오전 12:27:56
+Logging started at: 2024-05-31 오전 12:28:15
+Logging started at: 2024-05-31 오전 12:28:25
+Logging started at: 2024-05-31 오전 12:29:19
+Logging started at: 2024-05-31 오전 12:29:47
+Logging started at: 2024-05-31 오전 12:30:35
+Logging started at: 2024-05-31 오전 12:30:47
+Logging started at: 2024-05-31 오전 12:30:54
+Logging started at: 2024-05-31 오전 12:31:35
+Logging started at: 2024-05-31 오전 12:32:10
+Logging started at: 2024-05-31 오전 12:33:38
+Logging started at: 2024-05-31 오전 12:34:11
+Logging started at: 2024-05-31 오전 12:34:14
+Logging started at: 2024-05-31 오전 12:34:39
+Logging started at: 2024-05-31 오전 12:35:11
+Logging started at: 2024-05-31 오전 12:35:40
+Logging started at: 2024-05-31 오전 12:35:48
+Logging started at: 2024-05-31 오전 12:36:09
+Logging started at: 2024-05-31 오전 12:36:21
+Logging started at: 2024-05-31 오전 12:36:50
+Logging started at: 2024-05-31 오전 12:37:16
+Logging started at: 2024-05-31 오전 12:37:25
+Logging started at: 2024-05-31 오전 12:38:17
+Logging started at: 2024-05-31 오전 12:38:31
+Logging started at: 2024-05-31 오전 12:38:50
+Logging started at: 2024-05-31 오전 12:38:59
+Logging started at: 2024-05-31 오전 12:39:07
+Logging started at: 2024-05-31 오전 12:39:30
+Logging started at: 2024-05-31 오전 12:39:48
+Logging started at: 2024-05-31 오전 12:39:57
+Logging started at: 2024-05-31 오전 12:42:19
+Logging started at: 2024-05-31 오전 12:42:50
+Logging started at: 2024-05-31 오전 12:43:09
+Logging started at: 2024-05-31 오전 12:44:37
+Logging started at: 2024-05-31 오전 12:45:03
+Logging started at: 2024-05-31 오전 12:45:23
+Logging started at: 2024-05-31 오전 12:45:34
+Logging started at: 2024-05-31 오전 12:45:44
+Logging started at: 2024-05-31 오전 12:46:04
+Logging started at: 2024-05-31 오전 12:46:55
+Logging started at: 2024-05-31 오전 12:46:58
+Logging started at: 2024-05-31 오전 12:47:26
+Logging started at: 2024-05-31 오전 12:50:55
+Logging started at: 2024-05-31 오전 12:51:06
+Logging started at: 2024-05-31 오전 12:51:45
+Logging started at: 2024-05-31 오전 12:51:55
+Logging started at: 2024-05-31 오전 12:52:36
+Logging started at: 2024-05-31 오전 12:53:57
+Logging started at: 2024-05-31 오전 12:54:01
+Logging started at: 2024-05-31 오전 12:55:13
+Logging started at: 2024-05-31 오전 12:56:07
+Logging started at: 2024-05-31 오전 12:57:29
+Logging started at: 2024-05-31 오전 12:57:45
+Logging started at: 2024-05-31 오전 12:58:26
+Logging started at: 2024-05-31 오전 12:58:29
+Logging started at: 2024-05-31 오전 12:58:49
+Logging started at: 2024-05-31 오전 12:59:44
+Logging started at: 2024-05-31 오전 12:59:52
+Logging started at: 2024-05-31 오전 1:00:29
+Logging started at: 2024-05-31 오전 1:01:03
+Logging started at: 2024-05-31 오전 1:02:01
+Logging started at: 2024-05-31 오전 1:02:45
+Logging started at: 2024-05-31 오전 1:03:22
+Logging started at: 2024-05-31 오전 1:03:24
+Logging started at: 2024-05-31 오전 1:03:44
+Logging started at: 2024-05-31 오전 1:05:38
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-31 오전 1:06:03
+Logging started at: 2024-05-31 오전 1:06:22
+Logging started at: 2024-05-31 오전 1:07:03
+Logging started at: 2024-05-31 오전 1:07:35
+Logging started at: 2024-05-31 오전 1:08:58
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-31 오전 1:10:35
+Logging started at: 2024-05-31 오전 1:11:08
+Logging started at: 2024-05-31 오전 1:11:23
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-31 오후 2:45:27
+Logging started at: 2024-05-31 오후 2:46:05
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-31 오후 2:46:25
+Logging started at: 2024-05-31 오후 2:46:39
+Logging started at: 2024-05-31 오후 2:47:02
+Logging started at: 2024-05-31 오후 2:47:25
+Logging started at: 2024-05-31 오후 2:47:31
+Logging started at: 2024-05-31 오후 2:50:13
+Logging started at: 2024-05-31 오후 2:50:51
+Logging started at: 2024-05-31 오후 2:52:07
+Logging started at: 2024-05-31 오후 2:52:26
+Logging started at: 2024-05-31 오후 2:53:09
+Logging started at: 2024-05-31 오후 2:53:56
+Logging started at: 2024-05-31 오후 2:54:34
+Logging started at: 2024-05-31 오후 2:55:19
+Logging started at: 2024-05-31 오후 2:55:55
+Logging started at: 2024-05-31 오후 2:56:15
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-31 오후 2:56:49
+Logging started at: 2024-05-31 오후 2:57:34
+Logging started at: 2024-05-31 오후 2:58:27
+Logging started at: 2024-05-31 오후 2:59:01
+Logging started at: 2024-05-31 오후 2:59:36
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-31 오후 3:00:02
+Logging started at: 2024-05-31 오후 3:00:20
+Logging started at: 2024-05-31 오후 3:01:24
+Logging started at: 2024-05-31 오후 3:02:52
+Logging started at: 2024-05-31 오후 3:03:27
+Logging started at: 2024-05-31 오후 3:04:18
+Logging started at: 2024-05-31 오후 3:05:39
+Logging started at: 2024-05-31 오후 3:06:24
+Logging started at: 2024-05-31 오후 3:06:51
+Logging started at: 2024-05-31 오후 3:07:05
+Logging started at: 2024-05-31 오후 3:08:40
+Logging started at: 2024-05-31 오후 3:09:11
+Logging started at: 2024-05-31 오후 3:10:46
+Logging started at: 2024-05-31 오후 3:11:40
+Logging started at: 2024-05-31 오후 3:12:21
+Logging started at: 2024-05-31 오후 3:13:23
+Logging started at: 2024-05-31 오후 3:13:56
+Logging started at: 2024-05-31 오후 3:14:03
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-31 오후 3:18:22
+Logging started at: 2024-05-31 오후 3:19:08
+Logging started at: 2024-05-31 오후 3:19:24
+Logging started at: 2024-05-31 오후 3:21:21
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-31 오후 3:22:15
+Logging started at: 2024-05-31 오후 3:22:23
+Logging started at: 2024-05-31 오후 3:22:54
+Logging started at: 2024-05-31 오후 3:22:56
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-31 오후 3:23:42
+Logging started at: 2024-05-31 오후 3:23:49
+Logging started at: 2024-05-31 오후 3:24:09
+Logging started at: 2024-05-31 오후 3:25:00
+Logging started at: 2024-05-31 오후 3:25:12
+Logging started at: 2024-05-31 오후 3:25:30
+Logging started at: 2024-05-31 오후 3:25:33
+Logging started at: 2024-05-31 오후 3:25:59
+Logging started at: 2024-05-31 오후 3:26:02
+Logging started at: 2024-05-31 오후 3:26:08
+Logging started at: 2024-05-31 오후 3:26:11
+Logging started at: 2024-05-31 오후 3:26:26
+Logging started at: 2024-05-31 오후 3:28:30
+Logging started at: 2024-05-31 오후 3:28:39
+Logging started at: 2024-05-31 오후 3:32:32
+Logging started at: 2024-05-31 오후 3:32:40
+Logging started at: 2024-05-31 오후 3:32:49
+Logging started at: 2024-05-31 오후 3:34:04
+Logging started at: 2024-05-31 오후 3:34:27
+Logging started at: 2024-05-31 오후 3:34:35
+Logging started at: 2024-05-31 오후 3:34:55
+Logging started at: 2024-05-31 오후 3:35:09
+Logging started at: 2024-05-31 오후 3:36:32
+Logging started at: 2024-05-31 오후 3:38:08
+Logging started at: 2024-05-31 오후 3:38:25
+Logging started at: 2024-05-31 오후 3:38:32
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-31 오후 3:39:02
+Logging started at: 2024-05-31 오후 3:39:12
+Logging started at: 2024-05-31 오후 3:40:21
+Logging started at: 2024-05-31 오후 3:40:29
+Logging started at: 2024-05-31 오후 3:40:46
+Logging started at: 2024-05-31 오후 3:41:43
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-31 오후 3:42:01
+Logging started at: 2024-05-31 오후 3:42:18
+Logging started at: 2024-05-31 오후 3:43:02
+Logging started at: 2024-05-31 오후 3:43:23
+Logging started at: 2024-05-31 오후 3:43:39
+Logging started at: 2024-05-31 오후 3:44:10
+Logging started at: 2024-05-31 오후 3:44:35
+Logging started at: 2024-05-31 오후 3:44:48
+Logging started at: 2024-05-31 오후 3:45:35
+Logging started at: 2024-05-31 오후 3:45:59
+Logging started at: 2024-05-31 오후 3:46:03
+Logging started at: 2024-05-31 오후 3:46:33
+Logging started at: 2024-05-31 오후 3:46:43
+Logging started at: 2024-05-31 오후 3:47:11
+Logging started at: 2024-05-31 오후 3:47:44
+Logging started at: 2024-05-31 오후 3:49:59
+Logging started at: 2024-05-31 오후 3:50:40
+Logging started at: 2024-05-31 오후 3:50:59
+Logging started at: 2024-05-31 오후 3:51:14
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-31 오후 3:51:47
+Logging started at: 2024-05-31 오후 3:52:34
+Logging started at: 2024-05-31 오후 3:54:10
+Logging started at: 2024-05-31 오후 3:54:19
+Logging started at: 2024-05-31 오후 3:54:23
+Logging started at: 2024-05-31 오후 3:57:19
+Logging started at: 2024-05-31 오후 3:57:34
+Logging started at: 2024-05-31 오후 3:58:38
+Logging started at: 2024-05-31 오후 3:58:55
+Logging started at: 2024-05-31 오후 3:59:28
+Logging started at: 2024-05-31 오후 3:59:41
+Logging started at: 2024-05-31 오후 4:01:12
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-31 오후 4:02:30
+Logging started at: 2024-05-31 오후 4:02:52
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-31 오후 4:03:07
+Logging started at: 2024-05-31 오후 4:03:27
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : O
+
+Logging started at: 2024-05-31 오후 4:03:55
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-31 오후 4:04:10
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-31 오후 4:04:21
+Logging started at: 2024-05-31 오후 4:04:36
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-31 오후 4:05:07
+Logging started at: 2024-05-31 오후 4:06:25
+Logging started at: 2024-05-31 오후 4:06:41
+Logging started at: 2024-05-31 오후 4:06:54
+Logging started at: 2024-05-31 오후 4:10:28
+Logging started at: 2024-05-31 오후 4:10:31
+Logging started at: 2024-05-31 오후 4:10:35
+Logging started at: 2024-05-31 오후 4:11:13
+Logging started at: 2024-05-31 오후 4:11:21
+Logging started at: 2024-05-31 오후 4:12:16
+Logging started at: 2024-05-31 오후 4:13:49
+Logging started at: 2024-05-31 오후 4:22:37
+Logging started at: 2024-05-31 오후 4:23:25
+Logging started at: 2024-05-31 오후 4:27:05
+Logging started at: 2024-05-31 오후 4:42:57
+Logging started at: 2024-05-31 오후 5:01:55
+Logging started at: 2024-05-31 오후 5:08:40
+Logging started at: 2024-05-31 오후 5:09:05
+Logging started at: 2024-05-31 오후 5:10:50
+Logging started at: 2024-05-31 오후 5:35:50
+Logging started at: 2024-05-31 오후 5:51:41
+Logging started at: 2024-05-31 오후 9:59:19
+Logging started at: 2024-05-31 오후 9:59:28
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-31 오후 9:59:54
+Logging started at: 2024-05-31 오후 10:00:03
+Logging started at: 2024-05-31 오후 10:01:18
+Logging started at: 2024-05-31 오후 10:01:21
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-31 오후 10:03:25
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-05-31 오후 10:05:29
+Logging started at: 2024-05-31 오후 10:05:47
+Logging started at: 2024-05-31 오후 10:06:05
+Logging started at: 2024-05-31 오후 10:06:16
+Logging started at: 2024-05-31 오후 10:06:26
+Logging started at: 2024-05-31 오후 10:06:38
+Logging started at: 2024-05-31 오후 10:06:52
+Logging started at: 2024-05-31 오후 10:07:02
+Logging started at: 2024-05-31 오후 10:07:19
+Logging started at: 2024-05-31 오후 10:07:59
+Logging started at: 2024-05-31 오후 10:08:47
+Logging started at: 2024-05-31 오후 10:09:09
+오후입니다.
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : O
+
+Logging started at: 2024-05-31 오후 10:10:28
+Logging started at: 2024-05-31 오후 10:12:00
+Logging started at: 2024-06-03 오후 10:55:10
+Logging started at: 2024-06-07 오전 12:49:33
+Logging started at: 2024-06-07 오전 12:49:49
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-06-07 오전 12:50:15
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-06-07 오전 12:52:29
+Logging started at: 2024-06-07 오전 12:52:53
+Logging started at: 2024-06-07 오전 12:56:31
+Logging started at: 2024-06-07 오전 12:56:42
+Logging started at: 2024-06-07 오전 12:57:08
+Logging started at: 2024-06-07 오전 12:57:53
+Logging started at: 2024-06-07 오전 12:58:29
+Logging started at: 2024-06-07 오전 12:59:18
+Logging started at: 2024-06-07 오전 1:00:04
+Logging started at: 2024-06-07 오전 1:00:43
+Logging started at: 2024-06-07 오전 1:01:21
+Logging started at: 2024-06-07 오전 1:02:46
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-06-07 오전 1:06:33
+Logging started at: 2024-06-07 오전 1:06:35
+Logging started at: 2024-06-07 오전 1:06:37
+Logging started at: 2024-06-07 오전 1:07:00
+Logging started at: 2024-06-07 오전 1:07:49
+Logging started at: 2024-06-07 오전 1:08:06
+Logging started at: 2024-06-07 오전 1:09:42
+Logging started at: 2024-06-07 오전 1:10:04
+Logging started at: 2024-06-07 오전 1:10:27
+Logging started at: 2024-06-07 오전 1:10:33
+Logging started at: 2024-06-07 오전 1:11:33
+Logging started at: 2024-06-07 오전 1:11:45
+Logging started at: 2024-06-07 오전 1:12:10
+Logging started at: 2024-06-07 오전 1:12:46
+Logging started at: 2024-06-07 오전 1:12:49
+Logging started at: 2024-06-07 오전 1:14:04
+Logging started at: 2024-06-07 오전 1:20:33
+Logging started at: 2024-06-07 오전 1:20:36
+Logging started at: 2024-06-07 오전 1:20:38
+Logging started at: 2024-06-07 오전 1:20:39
+Logging started at: 2024-06-07 오전 1:21:09
+Logging started at: 2024-06-07 오전 1:21:30
+Logging started at: 2024-06-07 오전 1:21:34
+Logging started at: 2024-06-07 오전 1:21:36
+Logging started at: 2024-06-07 오전 1:21:37
+Logging started at: 2024-06-07 오전 1:21:39
+Logging started at: 2024-06-07 오전 1:21:44
+Logging started at: 2024-06-07 오전 1:21:46
+Logging started at: 2024-06-07 오전 1:21:48
+Logging started at: 2024-06-07 오전 1:21:50
+Logging started at: 2024-06-07 오전 1:21:53
+Logging started at: 2024-06-07 오전 1:21:55
+Logging started at: 2024-06-07 오전 1:21:57
+Logging started at: 2024-06-07 오전 1:22:01
+Logging started at: 2024-06-07 오전 1:22:43
+Logging started at: 2024-06-07 오전 1:22:49
+Logging started at: 2024-06-07 오전 1:23:02
+Logging started at: 2024-06-07 오전 1:23:08
+Logging started at: 2024-06-07 오전 1:23:40
+Logging started at: 2024-06-07 오전 1:23:46
+Logging started at: 2024-06-07 오전 1:23:49
+Logging started at: 2024-06-07 오전 1:23:59
+Logging started at: 2024-06-07 오전 1:24:03
+Logging started at: 2024-06-07 오전 1:24:05
+Logging started at: 2024-06-07 오전 1:24:08
+Logging started at: 2024-06-07 오전 1:24:10
+Logging started at: 2024-06-07 오전 1:24:12
+Logging started at: 2024-06-07 오전 1:24:13
+Logging started at: 2024-06-07 오전 1:24:30
+Logging started at: 2024-06-07 오전 1:24:37
+Logging started at: 2024-06-07 오전 1:24:45
+Logging started at: 2024-06-07 오전 1:24:49
+Logging started at: 2024-06-07 오전 1:25:01
+Logging started at: 2024-06-07 오전 1:27:00
+Logging started at: 2024-06-07 오전 1:27:02
+Logging started at: 2024-06-07 오전 1:27:18
+Logging started at: 2024-06-07 오전 1:27:20
+Logging started at: 2024-06-07 오전 1:28:09
+Logging started at: 2024-06-07 오후 7:38:11
+Logging started at: 2024-06-07 오후 7:38:22
+Logging started at: 2024-06-07 오후 7:38:24
+Logging started at: 2024-06-07 오후 7:38:25
+Logging started at: 2024-06-07 오후 7:38:26
+Logging started at: 2024-06-07 오후 7:38:27
+Logging started at: 2024-06-07 오후 7:38:28
+Logging started at: 2024-06-07 오후 7:38:30
+Logging started at: 2024-06-07 오후 7:38:31
+Logging started at: 2024-06-07 오후 7:38:33
+Logging started at: 2024-06-07 오후 7:39:30
+Logging started at: 2024-06-07 오후 7:39:33
+Logging started at: 2024-06-07 오후 7:48:41
+Logging started at: 2024-06-07 오후 7:49:35
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-06-07 오후 7:50:02
+Logging started at: 2024-06-07 오후 7:50:16
+Logging started at: 2024-06-07 오후 7:50:23
+Logging started at: 2024-06-07 오후 7:51:11
+Logging started at: 2024-06-07 오후 7:54:32
+Logging started at: 2024-06-07 오후 7:54:40
+Logging started at: 2024-06-07 오후 7:54:42
+Logging started at: 2024-06-07 오후 7:54:44
+Logging started at: 2024-06-07 오후 7:55:23
+Logging started at: 2024-06-07 오후 7:55:29
+Logging started at: 2024-06-07 오후 7:56:38
+Logging started at: 2024-06-07 오후 7:56:49
+Logging started at: 2024-06-07 오후 7:56:59
+Logging started at: 2024-06-07 오후 7:57:02
+Logging started at: 2024-06-07 오후 7:57:04
+Logging started at: 2024-06-07 오후 7:57:06
+Logging started at: 2024-06-07 오후 7:58:36
+Logging started at: 2024-06-07 오후 7:58:39
+Logging started at: 2024-06-07 오후 8:00:31
+Logging started at: 2024-06-07 오후 8:00:41
+Logging started at: 2024-06-07 오후 8:00:43
+Logging started at: 2024-06-07 오후 8:00:45
+Logging started at: 2024-06-07 오후 8:00:50
+Logging started at: 2024-06-07 오후 8:00:52
+Logging started at: 2024-06-07 오후 8:00:53
+Logging started at: 2024-06-07 오후 8:00:57
+Logging started at: 2024-06-07 오후 8:01:01
+Logging started at: 2024-06-07 오후 8:01:02
+Logging started at: 2024-06-07 오후 8:01:03
+Logging started at: 2024-06-07 오후 8:01:04
+Logging started at: 2024-06-07 오후 8:01:05
+Logging started at: 2024-06-07 오후 8:01:08
+Logging started at: 2024-06-07 오후 8:01:54
+Logging started at: 2024-06-07 오후 8:02:09
+Logging started at: 2024-06-07 오후 8:02:14
+Logging started at: 2024-06-07 오후 8:02:16
+Logging started at: 2024-06-07 오후 8:05:38
+Logging started at: 2024-06-07 오후 8:05:42
+Logging started at: 2024-06-07 오후 8:05:48
+Logging started at: 2024-06-07 오후 8:05:57
+Logging started at: 2024-06-07 오후 8:07:22
+Logging started at: 2024-06-07 오후 8:08:29
+Logging started at: 2024-06-07 오후 8:08:31
+Logging started at: 2024-06-07 오후 8:08:34
+Logging started at: 2024-06-07 오후 8:08:37
+Logging started at: 2024-06-07 오후 8:09:01
+Logging started at: 2024-06-07 오후 8:09:03
+Logging started at: 2024-06-07 오후 8:09:06
+Logging started at: 2024-06-07 오후 8:09:09
+Logging started at: 2024-06-07 오후 8:09:13
+Logging started at: 2024-06-07 오후 8:09:23
+Logging started at: 2024-06-07 오후 8:09:27
+Logging started at: 2024-06-07 오후 8:09:52
+Logging started at: 2024-06-07 오후 8:09:56
+Logging started at: 2024-06-07 오후 8:10:00
+Logging started at: 2024-06-07 오후 8:10:03
+Logging started at: 2024-06-07 오후 8:10:06
+Logging started at: 2024-06-07 오후 8:10:12
+Logging started at: 2024-06-07 오후 8:10:17
+Logging started at: 2024-06-07 오후 8:10:32
+Logging started at: 2024-06-07 오후 8:10:35
+Logging started at: 2024-06-07 오후 8:10:37
+Logging started at: 2024-06-07 오후 8:10:39
+Logging started at: 2024-06-07 오후 8:10:40
+Logging started at: 2024-06-07 오후 8:10:42
+Logging started at: 2024-06-07 오후 8:10:44
+Logging started at: 2024-06-07 오후 8:10:45
+Logging started at: 2024-06-07 오후 8:10:46
+Logging started at: 2024-06-07 오후 8:10:47
+Logging started at: 2024-06-07 오후 8:10:49
+Logging started at: 2024-06-07 오후 8:10:55
+Logging started at: 2024-06-07 오후 8:10:57
+Logging started at: 2024-06-07 오후 8:11:00
+Logging started at: 2024-06-07 오후 8:11:01
+Logging started at: 2024-06-07 오후 8:11:02
+Logging started at: 2024-06-07 오후 8:11:03
+Logging started at: 2024-06-07 오후 8:11:05
+Logging started at: 2024-06-07 오후 8:11:05
+Logging started at: 2024-06-07 오후 8:11:07
+Logging started at: 2024-06-07 오후 8:11:10
+Logging started at: 2024-06-07 오후 8:11:12
+Logging started at: 2024-06-07 오후 8:11:14
+Logging started at: 2024-06-07 오후 8:11:16
+Logging started at: 2024-06-07 오후 8:11:17
+Logging started at: 2024-06-07 오후 8:11:17
+Logging started at: 2024-06-07 오후 8:11:18
+Logging started at: 2024-06-07 오후 8:11:19
+Logging started at: 2024-06-07 오후 8:11:20
+Logging started at: 2024-06-07 오후 8:11:22
+Logging started at: 2024-06-07 오후 8:11:23
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-06-07 오후 8:11:42
+Logging started at: 2024-06-07 오후 8:11:44
+Logging started at: 2024-06-07 오후 8:11:46
+Logging started at: 2024-06-07 오후 8:11:47
+Logging started at: 2024-06-07 오후 8:11:49
+Logging started at: 2024-06-07 오후 8:12:18
+Logging started at: 2024-06-07 오후 8:12:22
+Logging started at: 2024-06-07 오후 8:12:27
+Logging started at: 2024-06-07 오후 8:12:58
+Logging started at: 2024-06-07 오후 8:13:21
+Logging started at: 2024-06-07 오후 8:13:24
+Logging started at: 2024-06-07 오후 8:13:26
+Logging started at: 2024-06-07 오후 8:14:00
+Logging started at: 2024-06-07 오후 8:16:18
+Logging started at: 2024-06-07 오후 8:17:10
+Logging started at: 2024-06-07 오후 8:17:14
+Logging started at: 2024-06-07 오후 8:17:28
+Logging started at: 2024-06-07 오후 8:17:42
+Logging started at: 2024-06-07 오후 8:17:44
+Logging started at: 2024-06-07 오후 8:17:46
+Logging started at: 2024-06-07 오후 8:17:48
+Logging started at: 2024-06-07 오후 8:18:01
+Logging started at: 2024-06-07 오후 8:18:08
+Logging started at: 2024-06-07 오후 8:18:14
+Logging started at: 2024-06-07 오후 8:18:17
+Logging started at: 2024-06-07 오후 8:18:19
+Logging started at: 2024-06-07 오후 8:18:22
+Logging started at: 2024-06-07 오후 8:18:25
+Logging started at: 2024-06-07 오후 8:18:29
+Logging started at: 2024-06-07 오후 8:18:35
+Logging started at: 2024-06-07 오후 8:18:37
+Logging started at: 2024-06-07 오후 8:18:39
+Logging started at: 2024-06-07 오후 8:18:53
+Logging started at: 2024-06-07 오후 8:18:55
+Logging started at: 2024-06-07 오후 8:18:56
+Logging started at: 2024-06-07 오후 8:18:57
+Logging started at: 2024-06-07 오후 8:18:58
+Logging started at: 2024-06-07 오후 8:18:59
+Logging started at: 2024-06-07 오후 8:19:06
+Logging started at: 2024-06-07 오후 8:19:08
+Logging started at: 2024-06-07 오후 8:19:10
+Logging started at: 2024-06-07 오후 8:19:12
+Logging started at: 2024-06-07 오후 8:19:14
+Logging started at: 2024-06-07 오후 8:19:16
+Logging started at: 2024-06-07 오후 8:19:18
+Logging started at: 2024-06-07 오후 8:19:25
+Logging started at: 2024-06-07 오후 8:20:19
+Logging started at: 2024-06-07 오후 8:20:23
+Logging started at: 2024-06-07 오후 8:20:46
+Logging started at: 2024-06-07 오후 8:20:49
+Logging started at: 2024-06-07 오후 8:20:51
+Logging started at: 2024-06-07 오후 8:21:08
+Logging started at: 2024-06-07 오후 8:21:12
+Logging started at: 2024-06-13 오전 3:11:00
+Logging started at: 2024-06-13 오전 3:11:17
+Logging started at: 2024-06-13 오전 3:11:19
+
+사고 발생 원인 : 미끄러짐
+날씨 : None
+최근 비의 유무 : X
+습도 : 60%
+바람의 유무 : X
+
+Logging started at: 2024-06-13 오전 3:31:26
+Logging started at: 2024-06-13 오전 3:38:49
+Logging started at: 2024-06-13 오전 3:39:04
+Logging started at: 2024-06-13 오전 3:39:14
+Logging started at: 2024-06-13 오전 3:53:53
+Logging started at: 2024-06-13 오전 3:54:08
+
+사고 발생 원인 : 미끄러짐
+날씨 : Windy
+최근 비의 유무 : X
+습도 : 72%
+바람의 유무 : X
+
+Logging started at: 2024-06-13 오전 3:54:25
+Logging started at: 2024-06-13 오전 4:03:33
+Logging started at: 2024-06-13 오전 4:03:44
+Logging started at: 2024-06-13 오전 4:21:48
+Logging started at: 2024-06-13 오전 4:21:55
+Logging started at: 2024-06-13 오전 4:31:25
+Logging started at: 2024-06-13 오전 4:32:15
+Logging started at: 2024-06-13 오전 4:33:56
+Logging started at: 2024-06-13 오전 4:34:08
+Logging started at: 2024-06-13 오전 4:34:18
+Logging started at: 2024-06-13 오전 4:34:26
+Logging started at: 2024-06-13 오전 4:36:21
+Logging started at: 2024-06-13 오전 4:37:07
+Logging started at: 2024-06-13 오전 4:40:16
+Logging started at: 2024-06-13 오전 4:40:26
+Logging started at: 2024-06-13 오전 4:40:31
+Logging started at: 2024-06-13 오전 4:45:19
+Logging started at: 2024-06-13 오전 6:06:51
+Logging started at: 2024-06-13 오전 6:12:53
+Logging started at: 2024-06-13 오전 6:13:19
