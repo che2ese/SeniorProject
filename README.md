@@ -21,7 +21,7 @@
 ![스크린샷 2024-06-25 001545](https://github.com/che2ese/SeniorProject/assets/141838530/bd3fad88-d90c-4518-a10e-86be7daae7f3)
 ![스크린샷 2024-06-25 001549](https://github.com/che2ese/SeniorProject/assets/141838530/e4f7124f-cc3c-4a67-8f7c-69b869e7e9c6)
 ![스크린샷 2024-06-25 001552](https://github.com/che2ese/SeniorProject/assets/141838530/1299e247-83a0-4de4-a978-397fb285d734)
-![스크린샷 2024-06-25 001555](https://github.com/che2ese/SeniorProject/assets/141838530/2ceca51d-b5d0-4918-b7a8-831e52bed591)
+![스크린샷 2024-07-06 000720](https://github.com/che2ese/SeniorProject/assets/141838530/5a6c7d11-898f-4986-837d-897793b9ac93)
 ![스크린샷 2024-06-25 001559](https://github.com/che2ese/SeniorProject/assets/141838530/f5a25e93-7814-432e-8380-8c4bb569ea73)
 ![스크린샷 2024-06-25 001602](https://github.com/che2ese/SeniorProject/assets/141838530/106fbbe6-9c29-4c50-9c1c-d3826241ae98)
 ![스크린샷 2024-06-25 001605](https://github.com/che2ese/SeniorProject/assets/141838530/a491bc62-38c2-41a3-b69e-d88c83dd9eb1)
